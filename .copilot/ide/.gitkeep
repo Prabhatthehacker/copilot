@@ -1,0 +1,3 @@
+# Keep this directory in git
+
+This file ensures the .copilot/ide directory is tracked in git. It's intentionally empty except for this note.
